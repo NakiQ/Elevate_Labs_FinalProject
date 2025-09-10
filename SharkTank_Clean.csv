@@ -1,0 +1,635 @@
+Startup Name,Industry,Pitchers City,Pitchers State,Original Ask Amount,Original Offered Equity,Total Deal Amount,Total Deal Equity,Number of Sharks in Deal,Namita Investment Amount,Aman Investment Amount,Anupam Investment Amount,Vineeta Investment Amount,Peyush Investment Amount,Ritesh Investment Amount,Amit Investment Amount,Guest Investment Amount
+BluePineFoods,Food and Beverage,Delhi,Delhi,50,5,75,16,3,0,25,0,25,0,0,0,25
+BoozScooters,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,40,15,40,50,2,0,0,0,20,0,0,0,20
+HeartUpMySleeves,Beauty/Fashion,Delhi,Delhi,25,10,25,30,2,0,0,12.5,12.5,0,0,0,0
+TagzFoods,Food and Beverage,Bangalore,Karnataka,70,1,70,2.75,1,0,0,0,0,0,0,0,70
+HeadAndHeart,Children/Education,Patiala,Punjab,50,5,0,0,0,0,0,0,0,0,0,0,0
+Agritourism,Agriculture,Baramati,Maharashtra,50,5,0,0,0,0,0,0,0,0,0,0,0
+qZenseLabs,Food and Beverage,"Delhi,Mohali","Delhi,Punjab",100,0.25,0,0,0,0,0,0,0,0,0,0,0
+Peeschute,Beauty/Fashion,Jalna,Maharashtra,75,4,75,6,1,0,75,0,0,0,0,0,0
+NOCD,Food and Beverage,Bangalore,Karnataka,50,2,20,15,1,0,0,0,20,0,0,0,0
+CosIQ,Beauty/Fashion,Delhi,Delhi,50,7.5,50,25,2,0,0,25,25,0,0,0,0
+JhaJiAchaar,Food and Beverage,Darbhanga,Bihar,50,10,56.6,5.62,2,28.3,0,0,28.3,0,0,0,0
+Bummer,Beauty/Fashion,Ahmedabad,Gujarat,75,4,75,7.5,2,37.5,37.5,0,0,0,0,0,0
+RevampMoto,Vehicles/Electrical Vehicles,Nashik,Maharashtra,100,1,100,1.5,2,0,50,50,0,0,0,0,0
+HungryHead,Food and Beverage,Mumbai,Maharashtra,50,5,0,0,0,0,0,0,0,0,0,0,0
+ShrawaniEngineers,Beauty/Fashion,Nagpur,Maharashtra,20,10,0,0,0,0,0,0,0,0,0,0,0
+SkippiIcePops,Food and Beverage,Hyderabad,Telangana,45,5,100,15,5,20,20,20,20,0,0,0,20
+Menstrupedia,Children/Education,Ahmedabad,Gujarat,50,10,50,20,1,50,0,0,0,0,0,0,0
+Hecoll,Beauty/Fashion,Hyderabad,Telangana,100,1,0,0,0,0,0,0,0,0,0,0,0
+RaisingSuperstars,Children/Education,Gurgaon,Haryana,100,2,100,4,2,0,50,0,0,0,0,0,50
+Torch-it,Children/Education,Ahmedabad,Gujarat,75,1,0,0,0,0,0,0,0,0,0,0,0
+Kavach,Children/Education,Gurgaon,Haryana,5,10,5,10,2,0,2.5,2.5,0,0,0,0,0
+LaKheerDeli,Food and Beverage,Pune,Maharashtra,50,7.5,0,0,0,0,0,0,0,0,0,0,0
+BeyondSnack,Food and Beverage,Thiruvananthapuram,Kerala,50,2.5,50,2.5,2,0,25,0,0,0,0,0,25
+VivalyfInnovations,Medical/Health,Hyderabad,Telangana,56,7.5,56,33.33,2,0,0,28,0,28,0,0,0
+MotionBreeze,Vehicles/Electrical Vehicles,Vadodara,Gujarat,30,3,30,6,1,0,0,0,0,0,0,0,30
+Altor,Manufacturing,Kolkata,West Bengal,50,5,50,7,2,25,25,0,0,0,0,0,0
+Ariro,Manufacturing,Chennai,Tamil Nadu,50,2.5,50,10,2,0,25,0,0,25,0,0,0
+KabiraHandmad,Food and Beverage,Jaipur,Rajasthan,100,5,0,0,0,0,0,0,0,0,0,0,0
+Nuutjob,Beauty/Fashion,Ahmedabad,Gujarat,25,5,25,20,3,8.33,8.33,0,0,8.33,0,0,0
+Meatyour,Food and Beverage,Pune,Maharashtra,30,5,30,20,3,0,10,10,0,10,0,0,0
+EventBeep,Children/Education,Pune,Maharashtra,30,2,30,3,3,0,10,0,0,10,0,0,10
+Gopal's56,Food and Beverage,Delhi,Delhi,30000,25,0,0,0,0,0,0,0,0,0,0,0
+ARRCOATSurfaceTextures,Manufacturing,Delhi,Delhi,50,5,50,15,1,0,0,50,0,0,0,0,0
+Farda,Beauty/Fashion,Nagpur,Maharashtra,30,10,30,20,2,15,15,0,0,0,0,0,0
+Auli,Beauty/Fashion,Kolkata,West Bengal,75,4,75,15,1,75,0,0,0,0,0,0,0
+SweeDesi,Food and Beverage,Pune,Maharashtra,40,3,0,0,0,0,0,0,0,0,0,0,0
+LOKA,Technology/Software,Delhi,Delhi,40,5,40,24,3,0,13.33,13.33,0,13.33,0,0,0
+Annie,Children/Education,Bangalore,Karnataka,30,0.5,105,3,3,35,0,35,0,35,0,0,0
+Carragreen,Green/CleanTech,Indore,Madhya Pradesh,50,10,50,20,2,0,0,25,0,25,0,0,0
+TheYarnBazaar,Manufacturing,Mumbai,Maharashtra,50,2,100,10,4,0,25,25,0,25,0,0,25
+TheRenalProject,Medical/Health,Mumbai,Maharashtra,100,3,100,6,2,50,50,0,0,0,0,0,0
+MorrikoPureFoods,Food and Beverage,Valsad,Gujarat,100,3,0,0,0,0,0,0,0,0,0,0,0
+GoodGoodPiggy,Technology/Software,Delhi,Delhi,45,5,0,0,0,0,0,0,0,0,0,0,0
+HammerLifestyle,Electronics,Panipat,Haryana,30,3,100,40,1,0,100,0,0,0,0,0,0
+PNTRobotics,Technology/Software,Mumbai,Maharashtra,50,4,25,25,1,0,0,0,0,25,0,0,0
+Cocofit,Food and Beverage,Hyderabad,Telangana,5.00E-05,5,5.00E-05,5,3,1.60E-05,1.60E-05,1.60E-05,0,0,0,0,0
+BambooIndia,Manufacturing,Pune,Maharashtra,80,4,50,3.5,2,0,0,25,0,0,0,0,25
+FlyingFur,Animal/Pets,Delhi,Delhi,75,7,0,0,0,0,0,0,0,0,0,0,0
+BeyondWater,Food and Beverage,Kolkata,West Bengal,75,4,75,15,2,37.5,37.5,0,0,0,0,0,0
+Let'sTry,Food and Beverage,Delhi,Delhi,45,2,45,12,2,0,22.5,22.5,0,0,0,0,0
+FindYourKicksIndia,Beauty/Fashion,Ludhiana,Punjab,50,10,50,25,5,10,10,10,0,10,0,0,10
+AasVidyalaya,Children/Education,Mumbai,Maharashtra,150,3,150,15,3,50,0,0,0,50,0,0,50
+Outbox,Business Services,Kolkata,West Bengal,50,5,0,0,0,0,0,0,0,0,0,0,0
+RoadBounce,Technology/Software,Pune,Maharashtra,80,10,80,20,1,0,0,0,0,80,0,0,0
+Mommy'sKitchen,Food and Beverage,Mumbai,Maharashtra,90,3,0,0,0,0,0,0,0,0,0,0,0
+IndiaHempandCo,Food and Beverage,Bangalore,Karnataka,50,4,0,0,0,0,0,0,0,0,0,0,0
+Otua,Vehicles/Electrical Vehicles,Gurgaon,Haryana,100,1,1,1,1,0,0,0,0,0,0,0,1
+Anthyesti,Business Services,Bangalore,Karnataka,50,2.5,0,0,0,0,0,0,0,0,0,0,0
+Ethik,Manufacturing,Bangalore,Karnataka,15,5,0,0,0,0,0,0,0,0,0,0,0
+WeSTOCK,Animal/Pets,Ernakulam,Kerala,50,5,60,10,4,15,15,0,0,15,0,0,15
+KetoIndia,Food and Beverage,Delhi,Delhi,150,1.25,0,0,0,0,0,0,0,0,0,0,0
+Magiclock,Hardware,Mumbai,Maharashtra,120,8,0,0,0,0,0,0,0,0,0,0,0
+TheStatePlate,Food and Beverage,"Bangalore,Kolkata","Karnataka,West Bengal",65,2,40,3,1,0,0,0,0,40,0,0,0
+Bakarmax,Technology/Software,Delhi,Delhi,35,5,0,0,0,0,0,0,0,0,0,0,0
+INACAN,Food and Beverage,Pune,Maharashtra,50,2,100,10,5,20,20,20,0,20,0,0,20
+Get-A-Whey,Food and Beverage,Mumbai,Maharashtra,100,8,100,15,3,0,33.33,0,33.33,0,0,0,33.33
+Sid07Designs,Hardware,Jammu,Jammu & Kashmir,47,10,25,75,1,0,0,0,0,25,0,0,0
+TheQuirkyNaari,Beauty/Fashion,Mathura,Uttar Pradesh,35,5,35,24,2,0,0,17.5,17.5,0,0,0,0
+HairOriginals,Beauty/Fashion,Gurgaon,Haryana,60,2,60,4,3,0,0,20,0,20,0,0,20
+Poo-de-Cologne,Beauty/Fashion,Mumbai,Maharashtra,75,5,0,0,0,0,0,0,0,0,0,0,0
+Moonshine,Food and Beverage,Mumbai,Maharashtra,80,0.5,0,0,0,0,0,0,0,0,0,0,0
+Falhari,Food and Beverage,Gurgaon,Haryana,50,2,0,0,0,0,0,0,0,0,0,0,0
+NamhyaFoods,Food and Beverage,Jammu,Jammu & Kashmir,100,5,50,10,1,0,50,0,0,0,0,0,0
+UrbanMonkey,Beauty/Fashion,Mumbai,Maharashtra,100,1,0,0,0,0,0,0,0,0,0,0,0
+GuardianGears,Manufacturing,Hyderabad,Telangana,30,5,0,0,0,0,0,0,0,0,0,0,0
+ModernMyth,Beauty/Fashion,Delhi,Delhi,75,5,0,0,0,0,0,0,0,0,0,0,0
+TheSassBar,Beauty/Fashion,Mumbai,Maharashtra,40,8,50,35,2,0,0,25,0,0,0,0,25
+KGAgrotech,Agriculture,Malegaon,Maharashtra,30,10,10,40,1,0,0,0,0,10,0,0,0
+NuskhaKitchen,Food and Beverage,Jaipur,Rajasthan,20,10,0,0,0,0,0,0,0,0,0,0,0
+PawsIndia,Animal/Pets,Mumbai,Maharashtra,50,4,50,15,1,0,0,50,0,0,0,0,0
+SunfoxTechnologies,Medical/Health,Dehradun,Uttarakhand,100,2,100,6,5,20,0,20,20,20,0,0,20
+Alpino,Food and Beverage,Surat,Gujarat,150,2,0,0,0,0,0,0,0,0,0,0,0
+IsakFragrances,Beauty/Fashion,Lucknow,Uttar Pradesh,50,8,50,50,1,0,0,0,0,50,0,0,0
+JulaaAutomation,Manufacturing,Ahmedabad,Gujarat,50,10,0,0,0,0,0,0,0,0,0,0,0
+RarePlanet,Manufacturing,Kolkata,West Bengal,65,1,65,3,1,65,0,0,0,0,0,0,0
+ThekaCoffee,Food and Beverage,Gandhinagar,Gujarat,50,10,0,0,0,0,0,0,0,0,0,0,0
+WattTechnovations,Medical/Health,Pune,Maharashtra,0.00101,2,0.00101,4,4,0.0002525,0,0.0002525,0,0.0002525,0,0,0.0002525
+AlisteTechnologies,Technology/Software,Noida,Uttar Pradesh,60,5,0,0,0,0,0,0,0,0,0,0,0
+InsuranceSamadhan,Business Services,Noida,Uttar Pradesh,100,1,100,4,1,0,0,0,0,100,0,0,0
+HumpyA2,Food and Beverage,Pune,Maharashtra,75,4,100,15,3,0,0,0,33.33,33.33,0,0,33.33
+KunafaWorld,Food and Beverage,Mangalore,Karnataka,90,5,0,0,0,0,0,0,0,0,0,0,0
+GoldSafeSolutions,Manufacturing,Mumbai,Maharashtra,50,5,50,30,3,0,0,0,16.66,16.66,0,0,16.66
+WakaoFoods,Food and Beverage,Goa,Goa,75,5,75,21,3,25,0,0,25,0,0,0,25
+PDDFalcon,Manufacturing,Gandhinagar,Gujarat,75,3,0,0,0,0,0,0,0,0,0,0,0
+PlayBoxTV,Business Services,Mumbai,Maharashtra,100,3.5,0,0,0,0,0,0,0,0,0,0,0
+Sippline,Manufacturing,Pune,Maharashtra,75,15,0,0,0,0,0,0,0,0,0,0,0
+KabaddiAdda,Fitness/Sports/Outdoors,Bangalore,Karnataka,80,1,80,6,2,40,0,0,40,0,0,0,0
+ShadesofSpring,Business Services,Bangalore,Karnataka,300,1,0,0,0,0,0,0,0,0,0,0,0
+Scholify,Children/Education,Bangalore,Karnataka,50,7.5,0,0,0,0,0,0,0,0,0,0,0
+Scrapshala,Manufacturing,Varanasi,Uttar Pradesh,50,10,0,0,0,0,0,0,0,0,0,0,0
+Sabjikothi,Manufacturing,Bhagalpur,Bihar,60,2.5,0,0,0,0,0,0,0,0,0,0,0
+AyuRythm,Medical/Health,Bangalore,Karnataka,75,2,75,2.68,1,0,75,0,0,0,0,0,0
+Astrix,Manufacturing,Coimbatore,Tamil Nadu,75,3,0,0,0,0,0,0,0,0,0,0,0
+TheaAndSid,Business Services,Mumbai,Maharashtra,80,7,0,0,0,0,0,0,0,0,0,0,0
+ExperentialEtc,Technology/Software,Mumbai,Maharashtra,200,4,0,0,0,0,0,0,0,0,0,0,0
+GrowFitter,Technology/Software,Mumbai,Maharashtra,50,1,50,2,1,0,50,0,0,0,0,0,0
+C3Med-Tech,Medical/Health,Ahmedabad,Gujarat,35,6,0,0,0,0,0,0,0,0,0,0,0
+ColourMeMad-CMM,Beauty/Fashion,Mumbai,Maharashtra,40,10,40,25,1,40,0,0,0,0,0,0,0
+Mavi's,Food and Beverage,Thane,Maharashtra,40,5,0,0,0,0,0,0,0,0,0,0,0
+TweekLabs,Fitness/Sports/Outdoors,Delhi,Delhi,40,2,60,10,3,0,0,20,0,20,0,0,20
+Proxgy,Technology/Software,Delhi,Delhi,35,1,100,10,2,0,0,0,0,50,0,0,50
+NomadFoodProject,Food and Beverage,"Delhi,Pune","Delhi,Maharashtra",40,10,40,20,4,10,0,0,10,0,0,0,20
+TweeInOne,Beauty/Fashion,Mumbai,Maharashtra,30,7.5,0,0,0,0,0,0,0,0,0,0,0
+GreenProtein,Food and Beverage,Mumbai,Maharashtra,60,2,0,0,0,0,0,0,0,0,0,0,0
+On2Cook,Food and Beverage,Ahmedabad,Gujarat,100,1,0,0,0,0,0,0,0,0,0,0,0
+JainShikanji,Food and Beverage,Modinagar,Uttar Pradesh,40,8,40,30,4,0,10,10,10,0,0,0,10
+Woloo,Technology/Software,Mumbai,Maharashtra,50,4,0,0,0,0,0,0,0,0,0,0,0
+ElcareIndia,Medical/Health,Mumbai,Maharashtra,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+SneaKare,Beauty/Fashion,Delhi,Delhi,20,5,21,12,3,7,7,0,7,0,0,0,0
+FrenchCrown,Beauty/Fashion,Surat,Gujarat,150,0.33,0,0,0,0,0,0,0,0,0,0,0
+StoreMyGoods,Business Services,Noida,Uttar Pradesh,100,1.75,50,4,2,25,0,0,0,25,0,0,0
+Devnagri,Technology/Software,Delhi,Delhi,100,1,0,0,0,0,0,0,0,0,0,0,0
+WitBlox,Manufacturing,Mumbai,Maharashtra,60,3,60,10,2,0,0,0,0,30,0,0,30
+Kineer,Food and Beverage,Pune,Maharashtra,100,10,0,0,0,0,0,0,0,0,0,0,0
+PiChem,Manufacturing,Lucknow,Uttar Pradesh,40,5,0,0,0,0,0,0,0,0,0,0,0
+Clensta,Beauty/Fashion,Delhi,Delhi,100,1,0,0,0,0,0,0,0,0,0,0,0
+InfinitiInsects,Animal/Pets,Bangalore,Karnataka,25,10,0,0,0,0,0,0,0,0,0,0,0
+AshwaPro,Business Services,Jaipur,Rajasthan,50,10,0,0,0,0,0,0,0,0,0,0,0
+Mine4Nine,Beauty/Fashion,Gurgaon,Haryana,75,4,0,0,0,0,0,0,0,0,0,0,0
+StudioBeej,Beauty/Fashion,Mumbai,Maharashtra,75,7.5,0,0,0,0,0,0,0,0,0,0,0
+Sattuz,Food and Beverage,Madhubani,Bihar,25,5,0,0,0,0,0,0,0,0,0,0,0
+Scintiglo,Medical/Health,Indore,Madhya Pradesh,75,1,0,0,0,0,0,0,0,0,0,0,0
+Glii,Business Services,Noida,Uttar Pradesh,40,4,0,0,0,0,0,0,0,0,0,0,0
+StanleeIndia,Electronics,Delhi,Delhi,60,3,0,0,0,0,0,0,0,0,0,0,0
+SpaceKidzIndia,Manufacturing,Chennai,Tamil Nadu,100,2,0,0,0,0,0,0,0,0,0,0,0
+UrbanNaps,Business Services,Ahmedabad,Gujarat,50,4,0,0,0,0,0,0,0,0,0,0,0
+Gizmoswala,Entertainment,Mumbai,Maharashtra,75,5,0,0,0,0,0,0,0,0,0,0,0
+ZyppElectric,Vehicles/Electrical Vehicles,Gurgaon,Haryana,220,1,0,0,0,0,0,0,0,0,0,0,0
+Picsniff,Technology/Software,Mumbai,Maharashtra,55,1,0,0,0,0,0,0,0,0,0,0,0
+Deciwood,Electronics,Delhi,Delhi,50,3.5,0,0,0,0,0,0,0,0,0,0,0
+HappyBar,Food and Beverage,Hyderabad,Telangana,60,2,0,0,0,0,0,0,0,0,0,0,0
+Tathastulive,Business Services,Ahmedabad,Gujarat,50,10,0,0,0,0,0,0,0,0,0,0,0
+BandsandCups,Beauty/Fashion,Chennai,Tamil Nadu,40,10,0,0,0,0,0,0,0,0,0,0,0
+MyWealthProtector,Business Services,Mumbai,Maharashtra,50,2.5,0,0,0,0,0,0,0,0,0,0,0
+TheIris,Manufacturing,Bangalore,Karnataka,10,15,0,0,0,0,0,0,0,0,0,0,0
+Canebot,Food and Beverage,Pune,Maharashtra,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+OyeDelhiOye,Food and Beverage,Delhi,Delhi,35,10,0,0,0,0,0,0,0,0,0,0,0
+InaliAssistiveTech,Medical/Health,Pune,Maharashtra,50,5,0,0,0,0,0,0,0,0,0,0,0
+Meera'sCelebrations,Business Services,Ludhiana,Punjab,50,25,0,0,0,0,0,0,0,0,0,0,0
+Artment,Lifestyle/Home,Gurgaon,Haryana,170,2.5,0,0,0,0,0,0,0,0,0,0,0
+Powertree,Manufacturing,Gandhinagar,Gujarat,150,2.5,0,0,0,0,0,0,0,0,0,0,0
+Eume,Beauty/Fashion,Mumbai,Maharashtra,150,2,0,0,0,0,0,0,0,0,0,0,0
+Hoovu,Business Services,Bangalore,Karnataka,80,1,100,2,2,0,50,0,0,50,0,0,0
+Dorji,Food and Beverage,Darjeeling,West Bengal,30,5,30,15,3,0,0,10,10,10,0,0,0
+Recode,Beauty/Fashion,Ludhiana,Punjab,100,1,0,0,0,0,0,0,0,0,0,0,0
+VeryMuchIndian,Beauty/Fashion,Pune,Maharashtra,50,3,50,10,2,25,25,0,0,0,0,0,0
+WatchoutWearables,Electronics,Thane,Maharashtra,200,5,100,10,2,0,0,50,50,0,0,0,0
+SoupX,Food and Beverage,Delhi,Delhi,75,6,50,18,1,0,0,0,50,0,0,0,0
+ATMOSPHERE,Food and Beverage,Delhi,Delhi,75,3,0,0,0,0,0,0,0,0,0,0,0
+Stage,Entertainment,"Bhiwani,Barnagar","Haryana,Madhya Pradesh",300,1,150,0.6,3,50,50,0,0,50,0,0,0
+Girgit,Beauty/Fashion,Mumbai,Maharashtra,20,10,20,20,1,20,0,0,0,0,0,0,0
+GearHeadMotors,Vehicles/Electrical Vehicles,Hyderabad,Telangana,75,2,100,6.67,2,0,50,0,0,50,0,0,0
+PatilKaki,Food and Beverage,Mumbai,Maharashtra,40,2.5,40,4,2,0,0,20,0,20,0,0,0
+Brandsdaddy,Manufacturing,Mumbai,Maharashtra,70,5,35,5,1,35,0,0,0,0,0,0,0
+Winston,Beauty/Fashion,Faridabad,Haryana,100,4,100,10,2,0,0,50,50,0,0,0,0
+Flatheads,Beauty/Fashion,Bangalore,Karnataka,75,3,0,0,0,0,0,0,0,0,0,0,0
+OrganicSmokes,Beauty/Fashion,Delhi,Delhi,100,1,0,0,0,0,0,0,0,0,0,0,0
+TeaFit,Food and Beverage,Mumbai,Maharashtra,50,3,50,8,4,0,12.5,12.5,12.5,12.5,0,0,0
+Haqdarshak,Business Services,Shimla,Himachal Pradesh,100,0.5,100,2,3,33.33,33.33,0,0,33.33,0,0,0
+Bhaskar'sPuranpoliGhar,Food and Beverage,Thane,Maharashtra,75,1,0,0,0,0,0,0,0,0,0,0,0
+GunjanAppsStudios,Technology/Software,Kolkata,West Bengal,250,1,0,0,0,0,0,0,0,0,0,0,0
+TheSimplySalad,Food and Beverage,Ahmedabad,Gujarat,30,10,30,10,2,0,15,0,15,0,0,0,0
+AyuSynk,Medical/Health,Mumbai,Maharashtra,100,1.5,50,3.5,1,50,0,0,0,0,0,0,0
+AtypicalAdvantage,Technology/Software,Jamshedpur,Jharkhand,30,1,30,3,2,15,15,0,0,0,0,0,0
+HouseOfChikankari,Beauty/Fashion,Delhi,Delhi,75,1,75,3.75,2,0,37.5,0,0,37.5,0,0,0
+MagicOfMemories,Beauty/Fashion,Delhi,Delhi,25,5,0,0,0,0,0,0,0,0,0,0,0
+Paradyes,Beauty/Fashion,Ahmedabad,Gujarat,65,1,65,2,2,0,32.5,0,32.5,0,0,0,0
+Nestroots,Lifestyle/Home,Delhi,Delhi,50,1,50,2,1,50,0,0,0,0,0,0,0
+Zillionaire,Beauty/Fashion,Jaipur,Rajasthan,50,3.3,100,10,1,0,0,100,0,0,0,0,0
+Credmate,Technology/Software,Ludhiana,Punjab,50,5,0,0,0,0,0,0,0,0,0,0,0
+Freebowler,Fitness/Sports/Outdoors,Bangalore,Karnataka,75,7.5,25,7.5,1,25,0,0,0,0,0,0,0
+ABCSports&Fitness,Fitness/Sports/Outdoors,Pune,Maharashtra,40,2,40,10,1,0,0,0,0,40,0,0,0
+Primebook,Technology/Software,Delhi,Delhi,75,1.5,75,3,2,0,37.5,0,0,37.5,0,0,0
+DailyDump,Manufacturing,Bangalore,Karnataka,80,4,30,4,1,30,0,0,0,0,0,0,0
+GharSoaps,Beauty/Fashion,Pune,Maharashtra,60,2,60,4,1,0,60,0,0,0,0,0,0
+Janitri,Medical/Health,Alwar,Rajasthan,100,2.5,100,2.5,1,100,0,0,0,0,0,0,0
+JaipurWatchCompany,Manufacturing,Jaipur,Rajasthan,50,2,0,0,0,0,0,0,0,0,0,0,0
+InsideFPV,Manufacturing,Surat,Gujarat,75,4,75,15,4,18.75,18.75,0,0,18.75,0,18.75,0
+Angrakhaa,Beauty/Fashion,Delhi,Delhi,40,5,40,20,1,0,0,0,0,0,0,40,0
+Diabexy,Food and Beverage,Gurgaon,Haryana,150,1,0,0,0,0,0,0,0,0,0,0,0
+Kyari,Manufacturing,Ghaziabad,Uttar Pradesh,51,1,51,6,2,0,0,25.5,0,25.5,0,0,0
+MoppFoods,Food and Beverage,Delhi,Delhi,75,2.25,75,5,1,0,0,0,0,0,0,75,0
+Econiture,Green/CleanTech,Amaravati,Maharashtra,50,8,0,0,0,0,0,0,0,0,0,0,0
+Dobiee,Food and Beverage,Shinde,Maharashtra,72,2,72,6.5,1,0,0,0,0,0,0,72,0
+FastBeetle,Business Services,Srinagar,Jammu & Kashmir,90,3,90,7.5,2,0,45,0,0,45,0,0,0
+Pflow,Medical/Health,Dhule,Maharashtra,60,1,60,6,2,30,0,0,0,0,0,30,0
+VSMani,Food and Beverage,Bangalore,Karnataka,60,1.5,19,1,1,19,0,0,0,0,0,0,0
+Sepal,Manufacturing,Hyderabad,Telangana,50,1,50,2,1,0,0,0,0,50,0,0,0
+Solinas,Business Services,Chennai,Tamil Nadu,90,2,90,3,2,0,0,45,0,45,0,0,0
+AvimeeHerbal,Beauty/Fashion,Surat,Gujarat,280,0.5,0,0,0,0,0,0,0,0,0,0,0
+eyenic,Beauty/Fashion,Delhi,Delhi,75,6,0,0,0,0,0,0,0,0,0,0,0
+ekatra,Lifestyle/Home,Kota,Rajasthan,40,10,20,20,2,0,0,0,0,10,0,10,0
+Raasa,Food and Beverage,Delhi,Delhi,50,5,50,25,1,0,0,50,0,0,0,0,0
+NeoMotion,Manufacturing,Chennai,Tamil Nadu,100,1,100,1,1,0,0,0,0,100,0,0,0
+licksters,Food and Beverage,Nagpur,Maharashtra,50,5,25,5,1,0,0,0,0,0,0,25,0
+Sayonara,Beauty/Fashion,Kolkata,West Bengal,100,1,0,0,0,0,0,0,0,0,0,0,0
+PMV,Vehicles/Electrical Vehicles,Mumbai,Maharashtra,100,1,0,0,0,0,0,0,0,0,0,0,0
+SpiceStory,Food and Beverage,Mumbai,Maharashtra,70,2,70,5,1,70,0,0,0,0,0,0,0
+Bullspree,Technology/Software,Ahmedabad,Gujarat,75,1.5,75,2.86,2,0,37.5,0,0,37.5,0,0,0
+Snitch,Beauty/Fashion,Bangalore,Karnataka,150,0.5,150,1.5,5,30,30,30,30,30,0,0,0
+Portl,Business Services,Hyderabad,Telangana,150,1,150,2.5,3,50,50,0,0,50,0,0,0
+FatToSlim,Beauty/Fashion,Bangalore,Karnataka,20,1,0,0,0,0,0,0,0,0,0,0,0
+CheeseCake&Co.,Food and Beverage,Delhi,Delhi,100,2,0,0,0,0,0,0,0,0,0,0,0
+Dabble,Manufacturing,Bangalore,Karnataka,50,10,15,10,1,0,15,0,0,0,0,0,0
+CloudTailor,Business Services,"Bangalore,Hyderabad","Karnataka,Telangana",100,1.4,0,0,0,0,0,0,0,0,0,0,0
+BeUnic,Business Services,Noida,Uttar Pradesh,100,10,0,0,0,0,0,0,0,0,0,0,0
+Broomees,Business Services,Delhi,Delhi,80,2,100,3,3,33.33,33.33,0,0,33.33,0,0,0
+Ravel,Beauty/Fashion,Amaravati,Maharashtra,75,2.5,75,10,1,0,0,75,0,0,0,0,0
+HoneyVeda,Food and Beverage,Ahmedabad,Gujarat,75,7.5,50,20,2,0,0,25,25,0,0,0,0
+PadCare,Manufacturing,Pune,Maharashtra,50,2,100,4,4,25,0,25,25,25,0,0,0
+SwadeshiBlessings,Lifestyle/Home,Udaipur,Rajasthan,50,5,25,5,2,12.5,0,0,12.5,0,0,0,0
+OLL,Technology/Software,Mumbai,Maharashtra,30,2,30,5,2,0,0,0,15,15,0,0,0
+Febris,Medical/Health,Ferozepur,Punjab,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+Geeani,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,75,7.5,100,10,3,0,33.33,33.33,33.33,0,0,0,0
+Amore,Food and Beverage,"Hyderabad,Mumbai","Telangana,Maharashtra",75,4,75,7.5,1,0,0,75,0,0,0,0,0
+LeafyAffair,Beauty/Fashion,Bangalore,Karnataka,50,2.5,0,0,0,0,0,0,0,0,0,0,0
+ScrapUncle,Green/CleanTech,Delhi,Delhi,60,3,60,5,1,0,0,0,0,0,0,60,0
+SharmaJiKiAata,Food and Beverage,Pune,Maharashtra,40,10,40,20,1,0,0,40,0,0,0,0,0
+Manetain,Beauty/Fashion,"Kochi,Mumbai","Kerala,Maharashtra",75,2.5,75,10,1,0,75,0,0,0,0,0,0
+GavinParis,Beauty/Fashion,Kolkata,West Bengal,50,5,0,0,0,0,0,0,0,0,0,0,0
+UnStop,Technology/Software,Delhi,Delhi,100,1,200,4,4,50,50,50,0,0,0,50,0
+BlueTea,Food and Beverage,"Faridabad,Kolkata","Haryana,West Bengal",75,1,50,3,1,0,50,0,0,0,0,0,0
+TheGreenSnack,Food and Beverage,Mumbai,Maharashtra,100,2,100,8,1,0,0,0,100,0,0,0,0
+HobbyIndia,Lifestyle/Home,Surat,Gujarat,50,3,0,0,0,0,0,0,0,0,0,0,0
+Flhexible,Lifestyle/Home,Jaipur,Rajasthan,50,7.5,0,0,0,0,0,0,0,0,0,0,0
+UpThrust,Fitness/Sports/Outdoors,Mumbai,Maharashtra,75,3,0,0,0,0,0,0,0,0,0,0,0
+Zoff,Food and Beverage,Raipur,Chhattisgarh,100,0.5,100,1.25,1,0,100,0,0,0,0,0,0
+DesiToys,Manufacturing,Mumbai,Maharashtra,50,3,0,0,0,0,0,0,0,0,0,0,0
+CloudWorx,Technology/Software,Bangalore,Karnataka,40,2,40,3.2,2,20,0,20,0,0,0,0,0
+Mahantam,Manufacturing,Banaskantha,Gujarat,30,10,30,20,5,6,6,6,6,6,0,0,0
+MindPeers,Medical/Health,Delhi,Delhi,53,1,106,2,4,17.66,17.66,0,17.66,53,0,0,0
+Barosi,Food and Beverage,Pataudi,Haryana,50,2,0,0,0,0,0,0,0,0,0,0,0
+Daryaganj,Food and Beverage,Delhi,Delhi,90,0.5,90,1,1,0,90,0,0,0,0,0,0
+DhruvVidyut,Vehicles/Electrical Vehicles,Delhi,Delhi,0,0.5,0,0.5,3,0,0,0,0,0,0,0,0
+CELLBELL,Lifestyle/Home,Ulhasnagar,Maharashtra,90,1.5,0,0,0,0,0,0,0,0,0,0,0
+Tipayi,Manufacturing,Pune,Maharashtra,50,10,0,0,0,0,0,0,0,0,0,0,0
+DigiQure,Medical/Health,Bhopal,Madhya Pradesh,40,4,40,10,1,40,0,0,0,0,0,0,0
+Nirmalaya,Manufacturing,Delhi,Delhi,60,1.5,0,0,0,0,0,0,0,0,0,0,0
+Pabiben,Beauty/Fashion,Ahmedabad,Gujarat,50,5,10,5,1,10,0,0,0,0,0,0,0
+Homestrap,Lifestyle/Home,Indore,Madhya Pradesh,70,1,50,7,1,0,0,50,0,0,0,0,0
+uBreathe,Manufacturing,Gurgaon,Haryana,150,7.5,50,5,1,50,0,0,0,0,0,0,0
+Deyor,Technology/Software,Gurgaon,Haryana,100,1,0,0,0,0,0,0,0,0,0,0,0
+iMumz,Medical/Health,Bangalore,Karnataka,70,1,10,1,1,0,0,0,0,10,0,0,0
+TheHealthyBinge,Food and Beverage,Pune,Maharashtra,50,5,50,5,2,0,25,0,0,25,0,0,0
+Freakins,Beauty/Fashion,Mumbai,Maharashtra,70,1,50,2.5,1,0,0,0,50,0,0,0,0
+Perfora,Lifestyle/Home,"Ballarpur,Karnal","Haryana,Maharashtra",80,1,80,2.5,3,26.66,0,0,26.66,26.66,0,0,0
+MidNightAngelsByPC,Beauty/Fashion,Gurgaon,Haryana,75,6,0,0,0,0,0,0,0,0,0,0,0
+CureSee,Medical/Health,Gurgaon,Haryana,40,5,50,10,1,0,0,0,0,50,0,0,0
+MeduLance,Medical/Health,Delhi,Delhi,200,1,200,2,3,66.66,66.66,0,0,66.66,0,0,0
+Cakelicious,Food and Beverage,Kolkata,West Bengal,25,5,25,20,1,0,0,0,0,0,0,25,0
+Bowled.io,Fitness/Sports/Outdoors,Mumbai,Maharashtra,80,1,0,0,0,0,0,0,0,0,0,0,0
+Toyshine,Manufacturing,Jalandhar,Punjab,125,0.5,0,0,0,0,0,0,0,0,0,0,0
+neuphony,Medical/Health,Noida,Uttar Pradesh,100,2,100,5.4,2,0,50,0,0,50,0,0,0
+Amrutam,Food and Beverage,Gwalior,Madhya Pradesh,50,2,0,0,0,0,0,0,0,0,0,0,0
+HoloKitab,Technology/Software,Jalandhar,Punjab,45,10,45,25,1,45,0,0,0,0,0,0,0
+Zoe,Food and Beverage,Gurgaon,Haryana,75,5,0,0,0,0,0,0,0,0,0,0,0
+Hornback,Vehicles/Electrical Vehicles,Hyderabad,Telangana,50,1,50,2.5,1,0,0,0,0,0,0,50,0
+Malaki,Food and Beverage,Mumbai,Maharashtra,50,1,50,3,2,0,25,0,0,25,0,0,0
+nanoclean,Manufacturing,Bikaner,Rajasthan,80,2,0,0,0,0,0,0,0,0,0,0,0
+DesmondJi,Liquor/Alcohol,Goa,Goa,100,1,0,0,0,0,0,0,0,0,0,0,0
+Cremeitalia,Food and Beverage,Mumbai,Maharashtra,90,1.5,0,0,0,0,0,0,0,0,0,0,0
+nawgati,Business Services,Noida,Uttar Pradesh,67,2,67,3,2,0,33.5,0,0,0,0,33.5,0
+Swytchd,Vehicles/Electrical Vehicles,Bangalore,Karnataka,50,3,0,0,0,0,0,0,0,0,0,0,0
+GladFul,Food and Beverage,Jaipur,Rajasthan,50,2,50,3.5,3,16.66,16.66,0,0,0,0,16.66,0
+Pharmallama,Medical/Health,Bangalore,Karnataka,100,1.5,200,5,5,40,40,40,0,40,0,40,0
+CraveRajaFoods,Food and Beverage,Kolkata,West Bengal,65,3,0,0,0,0,0,0,0,0,0,0,0
+VAPerfume,Lifestyle/Home,Mumbai,Maharashtra,100,10,0,0,0,0,0,0,0,0,0,0,0
+Hood,Technology/Software,Gurgaon,Haryana,120,0.2,60,0.54,2,0,30,0,0,30,0,0,0
+TwistingScoops,Food and Beverage,Delhi,Delhi,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+GROWiT,Agriculture,Surat,Gujarat,100,1,50,1,2,25,0,0,0,25,0,0,0
+Makino,Food and Beverage,Himmatnagar,Gujarat,200,2,0,0,0,0,0,0,0,0,0,0,0
+Trunome,Medical/Health,Chennai,Tamil Nadu,150,1,150,2,4,0,37.5,37.5,37.5,37.5,0,0,0
+Wol3D,Manufacturing,Mumbai,Maharashtra,150,1,80,2,1,0,80,0,0,0,0,0,0
+What'sUpWellness,Food and Beverage,Kolkata,West Bengal,50,3,60,4.76,3,0,20,20,20,0,0,0,0
+ProostBeer,Food and Beverage,Delhi,Delhi,100,0.75,0,0,0,0,0,0,0,0,0,0,0
+DrCubes,Food and Beverage,Bangalore,Karnataka,80,15,0,0,0,0,0,0,0,0,0,0,0
+MetroRide,Vehicles/Electrical Vehicles,Bangalore,Karnataka,75,1,0,0,0,0,0,0,0,0,0,0,0
+Conker,Technology/Software,Bangalore,Karnataka,40,1,0,0,0,0,0,0,0,0,0,0,0
+WTF,Food and Beverage,Kolkata,West Bengal,75,5,0,0,0,0,0,0,0,0,0,0,0
+funngro,Technology/Software,Mumbai,Maharashtra,50,1.25,50,4.16,2,25,0,0,0,0,0,25,0
+Aadvik,Food and Beverage,Delhi,Delhi,60,1.5,15,1.5,1,0,0,0,0,0,0,15,0
+oyehappy,Business Services,Hyderabad,Telangana,50,1,0,0,0,0,0,0,0,0,0,0,0
+HealthyMaster,Food and Beverage,Bangalore,Karnataka,50,2,50,6.5,1,0,0,0,50,0,0,0,0
+Kitsons,Lifestyle/Home,Hyderabad,Telangana,1000,10,0,0,0,0,0,0,0,0,0,0,0
+LondonBubble,Food and Beverage,Mumbai,Maharashtra,75,5,75,15,1,75,0,0,0,0,0,0,0
+WaggyZone,Animal/Pets,Mumbai,Maharashtra,50,5,0,0,0,0,0,0,0,0,0,0,0
+NutriCook,Food and Beverage,"Bangalore,Punganur","Karnataka,Andhra Pradesh",100,2,50,10,1,0,0,0,50,0,0,0,0
+Subhag,Medical/Health,"Jhumri Telaiya,Raipur","Jharkhand,Chhattisgarh",50,1,20,1,1,20,0,0,0,0,0,0,0
+SinghStyled,Beauty/Fashion,Mumbai,Maharashtra,50,5,50,10,1,0,0,0,0,50,0,0,0
+ZSportsTech,Fitness/Sports/Outdoors,Mumbai,Maharashtra,60,2,0,0,0,0,0,0,0,0,0,0,0
+ThePlatedProject,Business Services,Mumbai,Maharashtra,75,2,75,3.75,3,25,25,0,25,0,0,0,0
+VsnapU,Business Services,Goa,Goa,50,1.5,0,0,0,0,0,0,0,0,0,0,0
+TheHealthyFactory,Food and Beverage,Mumbai,Maharashtra,75,2.1,0,0,0,0,0,0,0,0,0,0,0
+Brevistay,Business Services,"Dehradun,Nainital,Lucknow","Uttarakhand,Uttar Pradesh",100,1.66,0,0,0,0,0,0,0,0,0,0,0
+SoulUp,Business Services,Bangalore,Karnataka,50,3,50,5,1,50,0,0,0,0,0,0,0
+TheBigBookBox ChapterOneBooks,Lifestyle/Home,Gopalganj,Bihar,50,8,0,0,0,0,0,0,0,0,0,0,0
+Rubans,Beauty/Fashion,Bangalore,Karnataka,150,0.5,100,1,3,33.33,33.33,0,33.33,0,0,0,0
+SameNotification,Technology/Software,"Ahmedabad,Mirzapur","Gujarat,Uttar Pradesh",25,15,0,0,0,0,0,0,0,0,0,0,0
+BottomLineSprays,Lifestyle/Home,Ahmedabad,Gujarat,35,5,0,0,0,0,0,0,0,0,0,0,0
+LilGoodness,Food and Beverage,Bangalore,Karnataka,100,1,50,1,1,0,0,0,0,50,0,0,0
+ForeverModest,Beauty/Fashion,Aurangabad,Maharashtra,20,10,20,20,4,5,0,5,5,0,0,5,0
+Sahayatha,Medical/Health,Coimbatore,Tamil Nadu,100,10,100,10,5,20,20,20,0,20,0,20,0
+WickedGud,Food and Beverage,Mumbai,Maharashtra,50,1,0,0,0,0,0,0,0,0,0,0,0
+maisha,Beauty/Fashion,Ahmedabad,Gujarat,75,3,10,1,1,0,0,0,0,0,0,10,0
+NishHair,Beauty/Fashion,Mumbai,Maharashtra,100,2,100,2,1,0,0,0,0,0,0,100,0
+MYBYK,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,200,1,0,0,0,0,0,0,0,0,0,0,0
+GODESi,Food and Beverage,Bangalore,Karnataka,90,0.5,0,0,0,0,0,0,0,0,0,0,0
+TAC,Beauty/Fashion,Mumbai,Maharashtra,150,0.5,81,1,2,0,40.5,0,0,0,0,0,40.5
+Naara-Aaba,Liquor/Alcohol,Ziro,Arunachal Pradesh,75,2.5,50,5,2,0,0,0,25,0,0,0,25
+StyloBug,Beauty/Fashion,Delhi,Delhi,80,2,80,10,1,0,0,0,0,0,0,80,0
+ZenOnco,Medical/Health,Jodhpur,Rajasthan,100,1,0,0,0,0,0,0,0,0,0,0,0
+HonestHome,Green/CleanTech,Dhampur,Uttar Pradesh,100,2,100,3,1,0,0,0,0,0,0,100,0
+AdilQadri,Beauty/Fashion,Bilimora,Gujarat,100,0.5,100,1,1,0,0,0,100,0,0,0,0
+ConsciousChemist,Beauty/Fashion,Jaipur,Rajasthan,60,2,0,0,0,0,0,0,0,0,0,0,0
+TheCinnamonKitchen,Food and Beverage,Chandigarh,Punjab,60,2,60,5,1,0,60,0,0,0,0,0,0
+WtfGyms,Business Services,Noida,Uttar Pradesh,100,2,0,0,0,0,0,0,0,0,0,0,0
+Intervue,Technology/Software,"Ludhiana,Ghaziabad","Punjab,Uttar Pradesh",150,1,150,2,1,0,150,0,0,0,0,0,0
+RodBez,Vehicles/Electrical Vehicles,Saharsa,Bihar,50,5,20,5,2,0,0,0,10,0,10,0,0
+Blix,Technology/Software,Mumbai,Maharashtra,80,2,80,4,2,0,40,0,0,0,40,0,0
+Homversity,Technology/Software,Ahmedabad,Gujarat,65,2,0,0,0,0,0,0,0,0,0,0,0
+TURMS,Beauty/Fashion,Bangalore,Karnataka,120,2,120,4,1,0,0,0,0,0,0,0,120
+mintree,Beauty/Fashion,Nagpur,Maharashtra,90,1,90,1.5,2,0,0,0,0,45,0,0,45
+80Wash,Manufacturing,Chandigarh,Punjab,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+DilFoods,Food and Beverage,Ranchi,Jharkhand,50,0.5,200,2.67,4,0,0,0,50,50,50,0,50
+AIKavach/Panoplia,Technology/Software,Hyderabad,Telangana,50,1.25,100,2.5,2,0,50,0,0,50,0,0,0
+Bartisans,Liquor/Alcohol,Mumbai,Maharashtra,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+Aretto,Manufacturing,Pune,Maharashtra,80,1,0,0,0,0,0,0,0,0,0,0,0
+Kalakaram,Manufacturing,Gurgaon,Haryana,50,2.5,60,6,3,20,0,20,0,20,0,0,0
+NabhiSutra,Beauty/Fashion,Vadodara,Gujarat,60,3,0,0,0,0,0,0,0,0,0,0,0
+Zorko,Food and Beverage,Surat,Gujarat,150,1,0,0,0,0,0,0,0,0,0,0,0
+Tramboo,Fitness/Sports/Outdoors,Srinagar,Jammu & Kashmir,30,3,30,4,2,0,15,0,0,15,0,0,0
+WeHear,Medical/Health,Ahmedabad,Gujarat,250,1,250,1,1,0,0,0,0,250,0,0,0
+Tiggle,Food and Beverage,Agra,Uttar Pradesh,50,5,50,20,2,0,0,0,0,25,0,25,0
+WYLDCard,Technology/Software,Mumbai,Maharashtra,50,0.5,75,1.5,1,0,0,75,0,0,0,0,0
+upliance.ai,Lifestyle/Home,Bangalore,Karnataka,100,1,0,0,0,0,0,0,0,0,0,0,0
+PizzaGalleria,Food and Beverage,Gohana,Haryana,100,2,0,0,0,0,0,0,0,0,0,0,0
+AiCars,Vehicles/Electrical Vehicles,Yavatmal,Maharashtra,200,4,0,0,0,0,0,0,0,0,0,0,0
+RooftopApp,Technology/Software,Mumbai,Maharashtra,200,4,0,0,0,0,0,0,0,0,0,0,0
+GoenchiFeni,Liquor/Alcohol,Goa,Goa,100,5,200,15,1,0,0,0,0,0,0,0,200
+Arata,Beauty/Fashion,Delhi,Delhi,100,1.25,100,1.33,2,50,0,0,50,0,0,0,0
+Vecros,Technology/Software,Delhi,Delhi,100,2.5,20,1,1,0,20,0,0,0,0,0,0
+GudGum,Food and Beverage,Bangalore,Karnataka,50,5,80,10,4,0,20,20,20,0,20,0,0
+EvaScalp,Medical/Health,Mumbai,Maharashtra,30,1.2,30,1.8,3,10,10,0,0,0,10,0,0
+Elitty,Beauty/Fashion,Gurgaon,Haryana,100,4,0,0,0,0,0,0,0,0,0,0,0
+HoneyTwigs,Food and Beverage,Delhi,Delhi,75,3,75,3,3,0,0,25,0,25,25,0,0
+Koparo,Food and Beverage,Delhi,Delhi,70,1,70,1,2,0,35,0,35,0,0,0,0
+2Ballz,Beauty/Fashion,Indore,Madhya Pradesh,30,5,0,0,0,0,0,0,0,0,0,0,0
+JewelBox,Beauty/Fashion,Kolkata,West Bengal,100,2,200,6,5,0,40,0,40,40,40,0,40
+DaakRoom,Business Services,Delhi,Delhi,36,4,36,6,1,0,0,0,0,0,36,0,0
+Nuvedo,Food and Beverage,Bangalore,Karnataka,50,3,0,0,0,0,0,0,0,0,0,0,0
+WALK,Medical/Health,Mumbai,Maharashtra,50,1.5,50,2.3,2,0,25,25,0,0,0,0,0
+RajaRaniCoaching,Beauty/Fashion,Surat,Gujarat,130,5,0,0,0,0,0,0,0,0,0,0,0
+DecodeAge,Medical/Health,Bangalore,Karnataka,100,1.25,100,2.25,1,0,0,100,0,0,0,0,0
+ALittleExtra,Beauty/Fashion,Guwahati,Assam,48,6,60,7.5,2,0,0,30,30,0,0,0,0
+Assembly,Beauty/Fashion,Gurugram,Haryana,85,1,0,0,0,0,0,0,0,0,0,0,0
+NasherMiles,Beauty/Fashion,Mumbai,Maharashtra,300,0.75,300,1.5,5,60,60,60,60,0,60,0,0
+AltCo,Food and Beverage,Bangalore,Karnataka,150,2,0,0,0,0,0,0,0,0,0,0,0
+Without,Beauty/Fashion,Pune,Maharashtra,75,1,75,3,2,0,0,0,0,37.5,0,0,37.5
+Kibo,Technology/Software,"Faridabad,Ahmedabad","Haryana,Gujarat",60,1,60,6,2,0,0,0,0,30,0,0,30
+VOLD,Food and Beverage,Ahmednagar,Maharashtra,50,2,10,10,1,0,10,0,0,0,0,0,0
+Quirksmith,Beauty/Fashion,Agra,Uttar Pradesh,80,1,0,0,0,0,0,0,0,0,0,0,0
+UrbanSpace,Lifestyle/Home,Ahmedabad,Gujarat,180,1,0,0,0,0,0,0,0,0,0,0,0
+HyperLab,Fitness/Sports/Outdoors,Ahmedabad,Gujarat,10,1,25,1,1,0,25,0,0,0,0,0,0
+EcoBiotraps,Green/CleanTech,"Ahmedabad,Pune","Gujarat,Maharashtra",50,2,0,0,0,0,0,0,0,0,0,0,0
+Hoora,Technology/Software,Nagpur,Maharashtra,80,2,0,0,0,0,0,0,0,0,0,0,0
+YesMadam,Beauty/Fashion,Delhi,Delhi,150,0.5,150,2,4,0,37.5,0,37.5,37.5,37.5,0,0
+Zerodor,Lifestyle/Home,"Ahmedabad,Mumbai","Gujarat,Maharashtra",100,3,0,0,0,0,0,0,0,0,0,0,0
+ToffeeCoffeeRoasters,Food and Beverage,Bangalore,Karnataka,60,2,35,2.33,1,0,0,0,0,0,35,0,0
+PushSports,Fitness/Sports/Outdoors,Delhi,Delhi,80,1,80,4,2,0,0,0,40,40,0,0,0
+ORBO,Technology/Software,Mumbai,Maharashtra,100,0.75,100,1,1,0,0,0,100,0,0,0,0
+CannazoIndia,Beauty/Fashion,Mumbai,Maharashtra,150,5,0,0,0,0,0,0,0,0,0,0,0
+Chefling,Food and Beverage,Mumbai,Maharashtra,40,10,40,16,4,10,0,0,0,10,0,10,10
+IntenseFocus,Beauty/Fashion,Unknown,Unknown,500,5,0,0,0,0,0,0,0,0,0,0,0
+MilletAmma,Food and Beverage,Bangalore,Karnataka,100,3,0,0,0,0,0,0,0,0,0,0,0
+D'chica,Beauty/Fashion,Delhi,Delhi,80,1,80,2,2,40,0,0,40,0,0,0,0
+Refit,Electronics,Delhi,Delhi,200,0.5,200,1,3,0,0,66.66,66.66,0,0,66.66,0
+HouseOfBeautyIndia,Beauty/Fashion,Delhi,Delhi,150,5,0,0,0,0,0,0,0,0,0,0,0
+Artinci,Food and Beverage,Bangalore,Karnataka,50,1.75,50,5,1,0,0,0,50,0,0,0,0
+TheRageRoom,Business Services,Hyderabad,Telangana,20,30,0,0,0,0,0,0,0,0,0,0,0
+Aastey,Beauty/Fashion,"Delhi,Mumbai","Delhi,Maharashtra",80,2,0,0,0,0,0,0,0,0,0,0,0
+Matri,Medical/Health,Kolkata,West Bengal,60,4,60,4,2,30,30,0,0,0,0,0,0
+Rubbabu,Manufacturing,Delhi,Delhi,200,5,0,0,0,0,0,0,0,0,0,0,0
+GulaboJaipur,Beauty/Fashion,Jaipur,Rajasthan,90,1,0,0,0,0,0,0,0,0,0,0,0
+AristaVault,Manufacturing,Delhi,Delhi,45,1.5,20,1,1,0,0,20,0,0,0,0,0
+ToHands,Technology/Software,"Erode,Kanpur","Tamil Nadu,Uttar Pradesh",55,1,60,2,2,0,0,0,0,0,0,0,60
+PlusGold,Technology/Software,Bangalore,Karnataka,60,1,60,1.5,1,0,0,0,0,0,0,0,60
+Aroleap,Medical/Health,Bangalore,Karnataka,100,2.5,100,5,4,0,0,25,0,25,0,25,25
+Cosmix,Medical/Health,Unknown,Unknown,100,1,100,1,1,100,0,0,0,0,0,0,0
+Fabriclore,Beauty/Fashion,Jaipur,Rajasthan,68.7,1,0,0,0,0,0,0,0,0,0,0,0
+PolishMePretty,Beauty/Fashion,Pune,Maharashtra,25,25,25,25,1,0,0,0,0,25,0,0,0
+GridMats,Manufacturing,Unknown,Unknown,500,2,0,0,0,0,0,0,0,0,0,0,0
+UnclePetersPanCakes,Food and Beverage,"Kolkata,Varanasi","West Bengal,Uttar Pradesh",60,2,60,3,3,20,0,20,20,0,0,0,0
+CreativeHatti,Business Services,Panchkula,Haryana,60,2,0,0,0,0,0,0,0,0,0,0,0
+CandidMen,Beauty/Fashion,Bangalore,Karnataka,60,2,60,5,2,0,0,0,30,0,0,30,0
+Flyrobe,Beauty/Fashion,Delhi,Delhi,50,1,50,4,1,0,50,0,0,0,0,0,0
+WiseLife,Medical/Health,Gurugram,Haryana,60,2,120,4,4,30,30,30,0,0,30,0,0
+Cervicheck,Medical/Health,Vadodara,Gujarat,75,1.5,75,5,1,75,0,0,0,0,0,0,0
+Eatverse,Food and Beverage,Kolkata,West Bengal,100,1,0,0,0,0,0,0,0,0,0,0,0
+AvataarSkincare,Beauty/Fashion,Bhopal,Madhya Pradesh,70,1,35,0.5,2,0,17.5,17.5,0,0,0,0,0
+ChalteFirteMangalkaryalay,Business Services,Latur,Maharashtra,200,10,0,0,0,0,0,0,0,0,0,0,0
+KryzenBiotech,Agriculture,Pune,Maharashtra,75,3,75,15,1,0,0,0,0,75,0,0,0
+FOMO,Food and Beverage,Bangalore,Karnataka,35,4,35,6,2,0,17.5,17.5,0,0,0,0,0
+ModelVerse,Technology/Software,Kozhikode,Kerala,25,10,25,10,3,0,0,8.33,0,0,8.33,8.33,0
+VikrantBikes,Vehicles/Electrical Vehicles,Satara,Maharashtra,30,5,0,0,0,0,0,0,0,0,0,0,0
+TheShellHair,Beauty/Fashion,Ajmer,Rajasthan,30,3,30,3,1,0,30,0,0,0,0,0,0
+Rize,Food and Beverage,Gurgaon,Haryana,45,6,0,0,0,0,0,0,0,0,0,0,0
+MEPACK,Business Services,Delhi,Delhi,7,10,7,10,2,0,0,0,0,0,3.5,3.5,0
+BaccaBucci,Beauty/Fashion,Delhi,Delhi,250,1,0,0,0,0,0,0,0,0,0,0,0
+Vobble,Children/Education,Bangalore,Karnataka,25,1.5,25,2,1,25,0,0,0,0,0,0,0
+BeUNatural,Beauty/Fashion,Delhi,Delhi,60,2.5,0,0,0,0,0,0,0,0,0,0,0
+Erotissch,Beauty/Fashion,Agra,Uttar Pradesh,75,3,0,0,0,0,0,0,0,0,0,0,0
+Niblerzz,Food and Beverage,Mumbai,Maharashtra,50,3,10,5,1,0,10,0,0,0,0,0,0
+Sorich,Food and Beverage,Delhi,Delhi,90,2.5,0,0,0,0,0,0,0,0,0,0,0
+LittleBox,Beauty/Fashion,Guwahati,Assam,75,1,75,2.5,5,15,15,15,15,0,0,15,0
+CremeCastle,Food and Beverage,Noida,Uttar Pradesh,60,1.5,60,2.5,1,0,0,0,0,0,0,60,0
+Namakwali,Food and Beverage,Unknown,Uttarakhand,50,5,10,5,1,0,0,0,0,0,0,10,0
+KariboCosmetics,Beauty/Fashion,Mumbai,Maharashtra,80,5,0,0,0,0,0,0,0,0,0,0,0
+Deeva,Beauty/Fashion,Bangana,Himachal Pradesh,200,4,75,6,3,0,25,0,0,0,25,0,25
+DesignTemplate,Technology/Software,Bid,Maharashtra,100,2.5,100,10,1,0,100,0,0,0,0,0,0
+Sama,Business Services,Delhi,"Delhi,Bihar,Kerala",100,1,100,1.5,3,33.33,33.33,0,0,0,33.33,0,0
+GoldenFeathers,Manufacturing,Jaipur,Rajasthan,500,5,0,0,0,0,0,0,0,0,0,0,0
+Myracle.io,Technology/Software,Mumbai,Maharashtra,120,3,0,0,0,0,0,0,0,0,0,0,0
+Cup-ji,Food and Beverage,Mumbai,Maharashtra,50,5,0,0,0,0,0,0,0,0,0,0,0
+AToddlerThing,Beauty/Fashion,Coimbatore,Tamil Nadu,80,2,40,2,1,0,0,0,0,0,0,40,0
+FlexifyMe,Medical/Health,Pune,Maharashtra,100,2,50,1.32,1,50,0,0,0,0,0,0,0
+Dharaksha,Green/CleanTech,Faridabad,Haryana,0.0125,1,0.0125,1,5,0,0.0025,0.0025,0.0025,0.0025,0.0025,0,0
+iDreamCareer,Technology/Software,"Delhi,Bangalore","Delhi,Karnataka",110,1.28,60,1,2,0,30,0,0,0,30,0,0
+RockPaperRum,Liquor/Alcohol,Mumbai,Maharashtra,50,2,20,1,1,0,0,0,20,0,0,0,0
+Fit&Flex,Food and Beverage,Ahmedabad,Gujarat,100,3,0,0,0,0,0,0,0,0,0,0,0
+Sukham,Medical/Health,Delhi,Delhi,100,3.33,0,0,0,0,0,0,0,0,0,0,0
+Smotect,Medical/Health,Mumbai,Maharashtra,100,1,50,5,1,0,0,50,0,0,0,0,0
+Katidhan,Manufacturing,Bangalore,Karnataka,150,2.5,75,5,1,0,0,0,0,0,75,0,0
+NEMAAI,Technology/Software,Delhi,Delhi,80,5,40,8,2,20,0,0,20,0,0,0,0
+MaplePods,Business Services,Delhi,Delhi,150,5,0,0,0,0,0,0,0,0,0,0,0
+SpecOps,Others,Unknown,Unknown,80,2,40,2,2,0,20,0,0,0,0,20,0
+KaabilKids,Technology/Software,Noida,Uttar Pradesh,70,2,50,2.5,2,25,25,0,0,0,0,0,0
+OddGiraffe,Lifestyle/Home,Mumbai,Maharashtra,75,7.5,0,0,0,0,0,0,0,0,0,0,0
+Nemocare,Medical/Health,"Hyderabad,Bangalore","Telangana,Karnataka",100,2.5,20,0.67,1,0,20,0,0,0,0,0,0
+WhySoBlue,Beauty/Fashion,Mumbai,Maharashtra,75,3,40,3,1,0,0,0,0,0,40,0,0
+CoratiaTechnologies,Technology/Software,Rourkela,Odisha,80,1,80,1,1,0,0,0,0,0,80,0,0
+Coolant,Manufacturing,Noida,Uttar Pradesh,90,1,0,0,0,0,0,0,0,0,0,0,0
+Xmachines,Technology/Software,Hyderabad,Telangana,72,4,72,4,2,36,0,0,0,0,36,0,0
+Luvottica,Lifestyle/Home,Abohar,Punjab,200,10,0,0,0,0,0,0,0,0,0,0,0
+FarmDidi,Food and Beverage,"Amravati,Lucknow,Bahadurgarh","Maharashtra,Uttar Pradesh,Haryana",50,2,100,10,2,0,0,0,50,50,0,0,0
+Popcorn,Food and Beverage,Delhi,Delhi,75,7.5,75,15,1,75,0,0,0,0,0,0,0
+Prorata,Business Services,Bangalore,Karnataka,100,2,50,10,2,0,0,25,0,25,0,0,0
+Indigifts,Business Services,Jaipur,Rajasthan,50,2,50,4,2,0,0,0,25,0,25,0,0
+AlienVersions,Vehicles/Electrical Vehicles,"Itanagar,Dehradun","Arunachal Pradesh,Uttarakhand",50,5,0,0,0,0,0,0,0,0,0,0,0
+Rocca,Food and Beverage,Nagpur,Maharashtra,60,4,30,2.5,1,0,0,0,0,0,30,0,0
+KikoLive,Technology/Software,Mumbai,Maharashtra,100,1,0,0,0,0,0,0,0,0,0,0,0
+Melooha,Others,Bangalore,Karnataka,80,2,0,0,0,0,0,0,0,0,0,0,0
+FUTRStudios,Technology/Software,"Chandigarh,Ahmedabad","Punjab,Gujarat",100,2.5,0,0,0,0,0,0,0,0,0,0,0
+Allter,Lifestyle/Home,Delhi,Delhi,100,2.5,100,4,3,0,33.33,33.33,0,0,33.33,0,0
+FirstBudOrganics,Food and Beverage,Deoghar,Jharkhand,50,7,50,10,1,0,0,0,0,0,50,0,0
+Shararat,Lifestyle/Home,Noida,Uttar Pradesh,60,7,0,0,0,0,0,0,0,0,0,0,0
+Competishun,Children/Education,Jaipur,Rajasthan,200,1,0,0,0,0,0,0,0,0,0,0,0
+BombayClosetCleanse,Beauty/Fashion,Mumbai,Maharashtra,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+KioskKaffee,Food and Beverage,Pune,Maharashtra,90,3,0,0,0,0,0,0,0,0,0,0,0
+NeonAttack,Lifestyle/Home,Hyderabad,Telangana,75,3,50,2,2,25,25,0,0,0,0,0,0
+PTal,Lifestyle/Home,Amritsar,Punjab,50,1,100,3.2,5,20,20,20,20,0,0,20,0
+RoadPilot,Technology/Software,Lucknow,Uttar Pradesh,80,5,0,0,0,0,0,0,0,0,0,0,0
+SmartMop,Lifestyle/Home,Mysuru,Karnataka,15,1,0,0,0,0,0,0,0,0,0,0,0
+Lea,Beauty/Fashion,Noida,Uttar Pradesh,100,2,100,4,4,25,0,25,25,0,0,0,25
+$KrishnaRama,Entertainment,Hyderabad,Telangana,200,30,0,0,0,0,0,0,0,0,0,0,0
+Rentit4me,Business Services,Gurugram,Haryana,150,5,0,0,0,0,0,0,0,0,0,0,0
+CoolTheGlobe,Green/CleanTech,Pune,Maharashtra,25,5,25,8,2,0,12.5,0,0,0,0,0,12.5
+Canvaloop,Green/CleanTech,Surat,Gujarat,100,1.33,200,4,5,40,40,40,0,0,0,0,80
+DigitalPaani,Green/CleanTech,Jaipur,Rajasthan,70,1,0,0,0,0,0,0,0,0,0,0,0
+FAEBeauty,Beauty/Fashion,Mumbai,Maharashtra,100,1,100,1.5,2,50,50,0,0,0,0,0,0
+CONFECT,Food and Beverage,Delhi,Delhi,100,1,100,2,1,100,0,0,0,0,0,0,0
+Indulge,Technology/Software,Goa,Goa,50,1,0,0,0,0,0,0,0,0,0,0,0
+BLFabric,Beauty/Fashion,Surat,Gujarat,100,2,100,5,2,0,0,0,0,0,50,0,50
+CultureCircle,Beauty/Fashion,Gurugram,Haryana,120,0.5,300,3,2,0,0,0,0,0,150,0,150
+NexeraHealth,Medical/Health,Jaipur,Rajasthan,75,1,0,0,0,0,0,0,0,0,0,0,0
+NOOE,Technology/Software,"Delhi,Pune","Delhi,Maharashtra",50,1,500,51,1,0,0,0,0,500,0,0,0
+GoZero,Food and Beverage,Mumbai,Maharashtra,100,1,100,1.5,1,0,100,0,0,0,0,0,0
+CurveElectric,Technology/Software,Srinagar,Jammu & Kashmir,500,5,0,0,0,0,0,0,0,0,0,0,0
+Gudworld,Food and Beverage,Aurangabad,Maharashtra,50,2,50,5,1,0,50,0,0,0,0,0,0
+airth,Lifestyle/Home,Delhi,Delhi,60,1,100,3.7,2,0,50,0,50,0,0,0,0
+OneDios,Lifestyle/Home,Noida,Uttar Pradesh,75,1.5,0,0,0,0,0,0,0,0,0,0,0
+InnerGize,Medical/Health,Delhi,Delhi,54,1.5,100,4.2,3,0,33.333,0,0,0,33.333,0,33.333
+PersonalTouchSkincare,Beauty/Fashion,Panipat,Haryana,120,1,0,0,0,0,0,0,0,0,0,0,0
+KIWIKisanWindow,Lifestyle/Home,Dehradun,Uttarakhand,50,1,250,10,1,0,0,0,0,0,0,0,250
+TripoleGear,Fitness/Sports/Outdoors,Delhi,Delhi,100,1,75,1.15,1,0,0,0,0,0,75,0,0
+Neosapien,Technology/Software,"Gwalior,Indore",Madhya Pradesh,80,2.5,80,4,1,80,0,0,0,0,0,0,0
+MissCheesecake,Food and Beverage,Jodhpur,Rajasthan,30,5,0,0,0,0,0,0,0,0,0,0,0
+SpeedKitchen,Food and Beverage,Delhi,Delhi,200,3,200,6,3,0,0,0,0,0,66.66,0,133.33
+MudgarClub,Fitness/Sports/Outdoors,Unknown,Haryana,50,10,50,12.5,1,0,0,0,0,0,50,0,0
+ImagiMake,Children/Education,Mumbai,Maharashtra,150,0.5,0,0,0,0,0,0,0,0,0,0,0
+BeastLife,Medical/Health,"Kanpur,Lucknow",Uttar Pradesh,100,1,0,0,0,0,0,0,0,0,0,0,0
+GoDevil,Beauty/Fashion,Gurugram,Haryana,80,2,0,0,0,0,0,0,0,0,0,0,0
+Havintha,Beauty/Fashion,Indore,Madhya Pradesh,50,2,0,0,0,0,0,0,0,0,0,0,0
+NurturingGreen,Lifestyle/Home,Lucknow,Uttar Pradesh,100,1,50,1.25,1,0,0,0,50,0,0,0,0
+kyari,Lifestyle/Home,Indore,Madhya Pradesh,80,0.8,0,0,0,0,0,0,0,0,0,0,0
+ProjectClay,Children/Education,Goa,Goa,15,10,15,10,1,15,0,0,0,0,0,0,0
+DeniBikes,Vehicles/Electrical Vehicles,Pune,Maharashtra,30,10,0,0,0,0,0,0,0,0,0,0,0
+PrettyLittleShop,Lifestyle/Home,Mumbai,Maharashtra,30,10,0,0,0,0,0,0,0,0,0,0,0
+Aquapeya,Lifestyle/Home,Sangli,Maharashtra,70,2,70,3,2,35,0,0,0,0,35,0,0
+Jarsh,Manufacturing,Hyderabad,Telangana,50,1,50,1.5,1,0,50,0,0,0,0,0,0
+DACBY,Beauty/Fashion,Kanpur,Uttar Pradesh,75,2.2,0,0,0,0,0,0,0,0,0,0,0
+Shyle,Beauty/Fashion,Jaipur,Rajasthan,70,1,70,1.5,2,35,0,0,0,0,35,0,0
+SavaniHeritage,Business Services,Mumbai,Maharashtra,300,1,100,0.8,1,0,0,0,0,0,100,0,0
+SNEAKINN,Beauty/Fashion,Gurugram,Haryana,90,3,90,6.5,1,0,0,90,0,0,0,0,0
+fupro,Medical/Health,Chandigarh,"Punjab,Kerala",60,1,60,4,3,20,20,0,0,0,20,0,0
+Kanvas,Beauty/Fashion,Mumbai,Maharashtra,60,6,0,0,0,0,0,0,0,0,0,0,0
+ezo,Manufacturing,Akola,Maharashtra,50,0.33,0,0,0,0,0,0,0,0,0,0,0
+Seven,Technology/Software,Mumbai,Maharashtra,75,1,75,1.5,3,0,0,0,25,25,0,0,25
+TheFutureAnimations,Technology/Software,Delhi,Delhi,50,2.5,50,10,1,0,0,0,0,50,0,0,0
+Aignosis,Technology/Software,Jaipur,Rajasthan,50,4,100,8,3,0,33.333,0,0,33.333,0,0,33.333
+Rosha,Manufacturing,Delhi,Delhi,60,1,60,4,2,0,30,0,0,0,30,0,0
+MakeMyPayment,Technology/Software,Ujjain,Madhya Pradesh,30,3,0,0,0,0,0,0,0,0,0,0,0
+PatchUp,Medical/Health,Delhi,Delhi,50,1.75,50,2.27,1,0,0,50,0,0,0,0,0
+tikitoro,Beauty/Fashion,Chennai,Tamil Nadu,25,0.5,25,1,1,25,0,0,0,0,0,0,0
+Ashva,Medical/Health,Ghaziabad,Uttar Pradesh,50,1.25,50,4,1,0,0,0,50,0,0,0,0
+AseemShakti,Beauty/Fashion,Mumbai,Maharashtra,50,2.5,50,10,1,0,0,50,0,0,0,0,0
+RBDMachineTools,Agriculture,Jaipur,Rajasthan,100,1,50,1,2,25,0,0,0,0,25,0,0
+MidasPaint,Green/CleanTech,Pune,Maharashtra,300,5,0,0,0,0,0,0,0,0,0,0,0
+GoodlandPickleball,Fitness/Sports/Outdoors,Mumbai,Maharashtra,80,4,80,6,1,0,80,0,0,0,0,0,0
+TheNaturikCo,Food and Beverage,Panchkula,Haryana,50,2,400,22.22,5,0,80,80,80,80,0,0,80
+Metashot,Fitness/Sports/Outdoors,Bangalore,Karnataka,80,1.5,160,5,2,0,0,80,80,0,0,0,0
+GabruDiChaap,Food and Beverage,Hyderabad,Telangana,70,1,140,6,3,0,0,46.666,46.666,46.666,0,0,0
+YaanMan,Beauty/Fashion,Ahmedabad,Gujarat,50,6,100,20,2,0,50,50,0,0,0,0,0
+SonicLamb,Lifestyle/Home,Mangalore,Karnataka,50,1,50,1,1,0,0,0,0,50,0,0,0
+Woolah,Food and Beverage,Sivasagar,Assam,50,1.66,50,2.5,1,0,50,0,0,0,0,0,0
+EM5,Beauty/Fashion,Indore,Madhya Pradesh,70,2,100,10,1,0,100,0,0,0,0,0,0
+WomanLikeU,Beauty/Fashion,Bangalore,Karnataka,100,2,100,3,1,0,100,0,0,0,0,0,0
+BookLeafPublishing,Others,"Delhi,Srinagar","Delhi,Jammu & Kashmir",90,5,0,0,0,0,0,0,0,0,0,0,0
+Str8bat,Fitness/Sports/Outdoors,Bangalore,Karnataka,150,1,150,3.5,2,75,75,0,0,0,0,0,0
+Ruby'sOrganics,Beauty/Fashion,Mumbai,Maharashtra,100,2.5,100,8,1,0,0,0,0,0,0,0,100
+TheGoodDoll,Children/Education,Ooty,Tamil Nadu,50,5,0,0,0,0,0,0,0,0,0,0,0
+Schickwheel,Manufacturing,Delhi,Delhi,70,1,0,0,0,0,0,0,0,0,0,0,0
+ClapStoreToys,Children/Education,Pune,Maharashtra,80,4,100,10,5,0,20,20,20,20,0,0,20
+RahejaSolarFoodProcessing,Manufacturing,Indore,Madhya Pradesh,50,1,175,4.38,3,0,0,0,25,25,0,0,125
+Wanderlooms,Fitness/Sports/Outdoors,Bhopal,Madhya Pradesh,50,2.5,50,4,2,25,0,0,0,0,25,0,0
+Ugees,Lifestyle/Home,Noida,Uttar Pradesh,50,2.5,50,4,1,0,0,50,0,0,0,0,0
+Alt.fCoworking,Business Services,Gurugram,Haryana,100,0.75,0,0,0,0,0,0,0,0,0,0,0
+BurgerBae,Beauty/Fashion,"Ludhiana,Kolkata","Punjab,West Bengal",100,2.5,200,20,3,0,66.666,66.666,0,0,0,0,66.666
+BobaBhai,Food and Beverage,Bangalore,Karnataka,50,0.3,90,1,2,45,0,0,0,0,0,0,45
+Hexafun,Beauty/Fashion,"Mumbai,Delhi","Maharashtra,Delhi",100,4,0,0,0,0,0,0,0,0,0,0,0
+RepeatGud,Food and Beverage,Raipur,Chhattisgarh,50,5,50,10,1,0,0,50,0,0,0,0,0
+SkateSupplyIndia,Fitness/Sports/Outdoors,Chandigarh,Punjab,50,2,0,0,0,0,0,0,0,0,0,0,0
+UtopianDrinks,Food and Beverage,Thane,Maharashtra,40,1.8,0,0,0,0,0,0,0,0,0,0,0
+GOFIG,Green/CleanTech,Pune,Maharashtra,50,2,0,0,0,0,0,0,0,0,0,0,0
+Joyspoon,Food and Beverage,Ahmedabad,Gujarat,40,1.5,40,2,1,0,0,0,0,0,40,0,0
+bambinos,Children/Education,Bangalore,Karnataka,100,1,100,1.5,3,33.333,0,33.333,0,0,33.333,0,0
+FundooLabs,Children/Education,Vadodara,Gujarat,60,4,66,7,2,0,33,33,0,0,0,0,0
+Gaon,Food and Beverage,Champaran,Bihar,80,4,80,8,2,0,0,40,40,0,0,0,0
+EriWeave,Beauty/Fashion,Kdonghulu,Meghalaya,20,12,20,12,2,10,0,10,0,0,0,0,0
+PaleooBakes,Food and Beverage,Mumbai,Maharashtra,100,6.5,100,9,2,0,0,50,50,0,0,0,0
+NeuraSim,Medical/Health,Bangalore,Karnataka,100,8,0,0,0,0,0,0,0,0,0,0,0
+Offmint,Beauty/Fashion,Samastipur,Bihar,0.0001,1,10,4,5,2,2,2,2,2,0,0,0
+Chokhat,Lifestyle/Home,Delhi,Delhi,50,7,30,10,2,0,0,15,0,15,0,0,0
+ZenmaCoffee,Food and Beverage,Gurugram,Haryana,60,3.5,0,0,0,0,0,0,0,0,0,0,0
+TheEleFant,Children/Education,Mumbai,Maharashtra,60,1,0,0,0,0,0,0,0,0,0,0,0
+BetterNutrition,Food and Beverage,Lucknow,Uttar Pradesh,60,1,60,1,1,60,0,0,0,0,0,0,0
+PinqPolka,Beauty/Fashion,Faridabad,Haryana,100,2.5,0,0,0,0,0,0,0,0,0,0,0
+Vibrasense,Medical/Health,Sonipat,Haryana,100,2,100,4.76,2,50,0,0,0,50,0,0,0
+NearBook,Children/Education,Sanchore,Rajasthan,40,20,40,20,1,0,0,40,0,0,0,0,0
+Memotag,Medical/Health,Delhi,Delhi,50,5,0,0,0,0,0,0,0,0,0,0,0
+Klimate,Beauty/Fashion,"Bangalore,Gular","Karnataka,Assam,Jharkhand",54,3,0,0,0,0,0,0,0,0,0,0,0
+HealthFab,Medical/Health,Unknown,Assam,100,3,200,7,4,0,50,50,50,50,0,0,0
+PieMatrix,Others,Delhi,Delhi,100,3,0,0,0,0,0,0,0,0,0,0,0
+Sudathi,Beauty/Fashion,Surat,Gujarat,100,1,100,4,3,0,33.333,33.333,0,33.333,0,0,0
+Moderate,Medical/Health,Hyderabad,Telangana,50,1.25,100,5,2,0,50,0,0,0,0,0,50
+HireForCare,Medical/Health,"Ghaziabad,Jaipur","Uttar Pradesh,Rajasthan",36,3,36,5,5,0,7.2,7.2,7.2,7.2,0,0,7.2
+DreamSmile,Medical/Health,Mumbai,Maharashtra,80,6,0,0,0,0,0,0,0,0,0,0,0
+Madmix,Food and Beverage,Mumbai,Maharashtra,50,1,50,5,1,0,0,0,0,0,50,0,0
+Palmonas,Beauty/Fashion,Pune,Maharashtra,126,1,126,1,2,63,0,0,0,0,63,0,0
+MKPowerAndMobility,Vehicles/Electrical Vehicles,Pune,Maharashtra,350,5,0,0,0,0,0,0,0,0,0,0,0
+Nidhi'sGrandmaaSecret,Beauty/Fashion,Gurugram,Haryana,70,2,70,5,1,0,0,70,0,0,0,0,0
+Solnce,Manufacturing,Surat,Gujarat,100,1.5,100,2.5,1,0,100,0,0,0,0,0,0
+BornGood,Lifestyle/Home,Bangalore,Karnataka,70,1,0,0,0,0,0,0,0,0,0,0,0
+DorabiAndAmili,Beauty/Fashion,Gurugram,Haryana,75,3,100,4,2,0,50,50,0,0,0,0,0
+ZebraLearn,Children/Education,Surat,Gujarat,100,0.8,100,1.6,1,0,0,0,0,0,100,0,0
+ExclusiveLane,Lifestyle/Home,Gurugram,Haryana,50,1,0,0,0,0,0,0,0,0,0,0,0
+Medial,Technology/Software,Bangalore,Karnataka,50,1,50,2.5,1,0,0,0,0,0,50,0,0
+PanchalDairy,Food and Beverage,Surendranagar,Gujarat,20,10,0,0,0,0,0,0,0,0,0,0,0
+MusicPandit,Children/Education,Kochi,Kerala,50,1,0,0,0,0,0,0,0,0,0,0,0
+Cograd,Children/Education,Etawah,Uttar Pradesh,100,2,50,6,3,16.666,0,0,16.666,0,16.666,0,0
+EatBetterCo,Food and Beverage,Jaipur,Rajasthan,50,0.5,50,0.5,1,50,0,0,0,0,0,0,0
+Earthful,Medical/Health,Hyderabad,Telangana,75,1,75,2.5,1,0,0,0,0,0,75,0,0
+Trajectory,Vehicles/Electrical Vehicles,Delhi,Delhi,100,2,50,3,1,0,0,0,0,0,50,0,0
+KaviThePoetry-ArtProject,Green/CleanTech,Unknown,Unknown,60,1.5,0,0,0,0,0,0,0,0,0,0,0
+F2DF,Agriculture,Jind,Haryana,50,1,5,2,1,0,5,0,0,0,0,0,0
+SugarStrings.ai,Medical/Health,"Kalady, Vuyyuru","Kerala,Andhra Pradesh",100,2.5,0,0,0,0,0,0,0,0,0,0,0
+MomsHome,Children/Education,Jaipur,Rajasthan,75,1,75,2,1,0,0,0,75,0,0,0,0
+Catwalk,Food and Beverage,Delhi,Delhi,100,4.16,0,0,0,0,0,0,0,0,0,0,0
+Beautywise,Beauty/Fashion,Delhi,Delhi,100,1.5,300,6,1,0,300,0,0,0,0,0,0
+Ivory,Medical/Health,Bangalore,Karnataka,50,1.25,50,5,1,50,0,0,0,0,0,0,0
+TheHousePartyBySavar,Business Services,Gurugram,Haryana,100,5,50,5,1,0,0,0,0,0,50,0,0
+GlowGlossary,Food and Beverage,"Bangalore,Ghaziabad","Karnataka,Uttar Pradesh",60,4,0,0,0,0,0,0,0,0,0,0,0
+SinghDentalCare,Medical/Health,Amritsar,Punjab,100,5,0,0,0,0,0,0,0,0,0,0,0
+TribalVeda,Food and Beverage,Udaipur,Rajasthan,50,2,50,2.8,1,0,0,0,0,0,50,0,0
+Anuvad,Beauty/Fashion,Ahmedabad,Gujarat,50,5,0,0,0,0,0,0,0,0,0,0,0
+Fitelo,Fitness/Sports/Outdoors,Mohali,Punjab,150,0.5,150,1,2,75,0,0,75,0,0,0,0
+Nanighar,Food and Beverage,Kolkata,West Bengal,100,5,0,0,0,0,0,0,0,0,0,0,0
+GoodMonk,Fitness/Sports/Outdoors,Bangalore,Karnataka,100,1.67,50,1,1,0,0,0,50,0,0,0,0
+Artbuzz,Business Services,Delhi,Delhi,100,3,0,0,0,0,0,0,0,0,0,0,0
+Tulua,Food and Beverage,Mumbai,Maharashtra,50,2,0,0,0,0,0,0,0,0,0,0,0
+Taffykids,Children/Education,Mumbai,Maharashtra,75,1,75,1.5,2,0,0,0,37.5,0,37.5,0,0
+WhaleWearables,Lifestyle/Home,Belagavi,Karnataka,30,3,30,3,2,0,15,0,15,0,0,0,0
+Zingavita,Medical/Health,Chandigarh,Punjab,100,1.25,0,0,0,0,0,0,0,0,0,0,0
+DhaagaLife,Beauty/Fashion,Mumbai,Maharashtra,75,5,0,0,0,0,0,0,0,0,0,0,0
+Tileskraft,Lifestyle/Home,Borbi,Gujarat,60,12,0,0,0,0,0,0,0,0,0,0,0
+Krishnsakhi,Lifestyle/Home,Mumbai,Maharashtra,37.5,2.5,0,0,0,0,0,0,0,0,0,0,0
+BoreCharger,Agriculture,Pune,Maharashtra,75,1.5,0,0,0,0,0,0,0,0,0,0,0
+SuperBolter,Lifestyle/Home,Bangalore,Karnataka,75,0.5,0,0,0,0,0,0,0,0,0,0,0
+HiveSchool,Children/Education,"Delhi,Indore","Delhi,Madhya Pradesh",60,5,0,0,0,0,0,0,0,0,0,0,0
+Tintbox,Lifestyle/Home,Ahmedabad,Gujarat,70,5,0,0,0,0,0,0,0,0,0,0,0
+EasyRugs,Lifestyle/Home,Delhi,Delhi,35,5,35,5,2,0,17.5,0,17.5,0,0,0,0
+StylesTry,Beauty/Fashion,Delhi,Delhi,50,1,0,0,0,0,0,0,0,0,0,0,0
+Quitci,Lifestyle/Home,Kolar,Karnataka,50,2,0,0,0,0,0,0,0,0,0,0,0
+FitFeast,Food and Beverage,Delhi,Delhi,100,6.5,100,18,2,0,0,50,0,0,0,0,50
+TheBearHouse,Beauty/Fashion,Bangalore,Karnataka,300,1,100,1,1,100,0,0,0,0,0,0,0
+UrbanAnimal,Animal/Pets,Bangalore,Karnataka,45,5,0,0,0,0,0,0,0,0,0,0,0
+Nooky,Lifestyle/Home,Delhi,Delhi,60,1,0,0,0,0,0,0,0,0,0,0,0
+Subculture,Beauty/Fashion,Ara,Bihar,50,7,0,0,0,0,0,0,0,0,0,0,0
+Woodsmen,Liquor/Alcohol,Delhi,Delhi,150,0.5,0,0,0,0,0,0,0,0,0,0,0
+BhavisyaPlast,Green/CleanTech,Kolkata,West Bengal,50,1.5,200,10,4,50,50,50,0,0,0,0,50
+Ecoil,Green/CleanTech,Jaipur,Rajasthan,100,1.25,50,1,2,0,0,0,0,0,25,0,25
+Rescript,Green/CleanTech,Bangalore,Karnataka,100,3.33,0,0,0,0,0,0,0,0,0,0,0
+TickleYourArt,Others,Pune,Maharashtra,21.3,7,21.3,7,2,0,10.65,10.65,0,0,0,0,0
+Symbionic,Medical/Health,Chennai,Tamil Nadu,80,2,40,1,1,40,0,0,0,0,0,0,0
+XLCinema,Entertainment,Delhi,Delhi,150,1.5,0,0,0,0,0,0,0,0,0,0,0
